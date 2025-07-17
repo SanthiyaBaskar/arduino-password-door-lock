@@ -23,6 +23,7 @@ This project is a smart security system that unlocks a door using a 4-digit pass
 ---
 
 ## 🖼️ Project Image:
+
 ![Door Lock System Prototype](./images/door-lock-demo.jpg)
 
 ---
